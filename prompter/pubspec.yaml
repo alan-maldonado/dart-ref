@@ -1,0 +1,8 @@
+name: prompter_am
+version: 0.0.1
+description: Library to create CLI Wizards
+author: 'Alan Maldonado <alan.maldonado@gmail.com>'
+homepage: http://alanmaldonado.pro
+
+environment:
+  sdk: '<3.0.0'
